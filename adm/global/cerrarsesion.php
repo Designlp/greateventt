@@ -2,5 +2,5 @@
 
 session_start();
 session_destroy();
-header("Location:/pag/recuperar/login.php");
+header("Location:/recuperar/login.php");
 ?>

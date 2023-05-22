@@ -35,7 +35,7 @@ if($existe == 0)
     if($resultado){
         echo "<script>
                 alert('Registro Exitoso');
-                window.location= '/pag/recuperar/login.php'
+                window.location= '/recuperar/login.php'
     </script>";
     }
     else{

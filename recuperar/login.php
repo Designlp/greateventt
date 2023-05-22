@@ -47,7 +47,7 @@
 
                 <input type="submit" class="button button-block mb-3 mt-5 miBtn mt-3" value="ENTRAR"/>
 
-                <a href="/pag/cliente/registro.html" id="nuevaCuenta" title="Volver">Crear Cuenta..!</a>
+                <a href="/cliente/registro.html" id="nuevaCuenta" title="Volver">Crear Cuenta..!</a>
 
                 <a href="#" id="olvidar" title="Recuperar Clave">Recuperar Contraseña</a>
                 <br><br>    

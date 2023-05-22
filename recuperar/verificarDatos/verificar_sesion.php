@@ -65,14 +65,14 @@ $resultado->execute();
             $_SESSION['ID']=$userss['ID'];
             $_SESSION['fecha']=$userss['fecha'];
     
-                 header("Location:/pag/adm/index.php");
+                 header("Location:/adm/index.php");
     
               }
     
               else{
                
                  
-                header("Location:/pag/clientev/clientel.html");
+                header("Location:/clientev/clientel.html");
               }
     
             }
